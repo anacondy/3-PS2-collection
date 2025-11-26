@@ -1,0 +1,23 @@
+{
+  "name": "3-ps2-collection",
+  "version": "1.0.0",
+  "description": "PS2 Horror Games Collection Archive - Interactive gallery of classic PlayStation 2 horror titles",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["ps2", "playstation", "horror", "games", "collection", "archive"],
+  "author": "Anacondy",
+  "license": "MIT",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "@vitejs/plugin-react": "^5.1.1",
+    "lucide-react": "^0.554.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwindcss": "^4.1.17",
+    "vite": "^7.2.4"
+  }
+}
